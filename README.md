@@ -1,4 +1,4 @@
-### hi there 👋 a software engineering student at the University of Lagos
+### Hi I'm Mayowa 👋 A Software Engineering student at the University of Lagos
  - 🔭 innovating at [@390labs](https://github.com/390labs)
  - 🌱 I’m currently learning c#
  - 💬 Ask me about php and javascript
