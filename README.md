@@ -3,7 +3,7 @@
  - 🌱 I’m currently learning c#
  - 💬 Ask me about php and javascript
  - 📫 How to reach me: [Twitter](https://twitter.com/Mayorwa_O) or [Discord](MaYGorwa#7963)
- - ⚡ Fun fact: I play [valorant](https://playvalorant.com/) a lot
+ - ⚡ Fun fact: I game a lot
  
 <!--
 **Mayorwa/Mayorwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
