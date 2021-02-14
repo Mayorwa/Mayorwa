@@ -1,4 +1,5 @@
 ### Hi I'm Mayowa 👋 A Software Engineering student at the University of Lagos
+![image title](https://mayorwa.me/img/Avatar.png)
  - 🔭 innovating at [@390labs](https://github.com/390labs)
  - 🌱 I’m currently learning c#
  - 💬 Ask me about php and javascript
