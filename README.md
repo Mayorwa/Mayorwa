@@ -1,7 +1,7 @@
-### Hi I'm Mayowa 👋 A Software Engineering student at the University of Lagos
+### Hi I'm Mayowa 👋 A Software Engineering Student
  - 🔭 innovating everywhere
  - 🌱 I’m currently learning c#
- - 💬 Ask me about php and javascript
+ - 💬 Ask me about PHP and Javascript
  - 📫 How to reach me: [Twitter](https://twitter.com/Mayorwa_O) or [Discord](MaYGorwa#7963)
  - ⚡ Fun fact: I game a lot
 
