@@ -7,9 +7,9 @@
 
 #### Spotify Playing🎧
 
-[![Spotify](https://mayorwa-spotify.vercel.app//api/spotify)](https://open.spotify.com/user/USER_NAME)
 <img src="https://github-readme-stats.vercel.app/api?username=Mayorwa&&show_icons=true&title_color=c4c4c4&icon_color=bb2acf&text_color=c4c4c4&bg_color=0d1117">
 <!--
+[![Spotify](https://mayorwa-spotify.vercel.app//api/spotify)](https://open.spotify.com/user/USER_NAME)
 **Mayorwa/Mayorwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
