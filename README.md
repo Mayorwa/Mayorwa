@@ -1,6 +1,6 @@
 ### Hi I'm Mayowa 👋 A Software Engineering Student
  - 🔭 innovating everywhere
- - 🌱 I’m currently learning C#
+ - 🌱 I’m currently learning C# & Javascript
  - 💬 Ask me about PHP
  - 📫 How to reach me: [Twitter](https://twitter.com/Mayorwa_O) or [Discord](MaYGorwa#7963)
  - ⚡ Fun fact: shush
