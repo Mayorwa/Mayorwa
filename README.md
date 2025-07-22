@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mayorwa](https://github.com/mayorwa)
 
-- 💬 Ask me about **PWA, Typescript, WebAssembly, data structures and algorithms, fundamental computer science stuff.**
+- 💬 Ask me about **PWA, Golang, Typescript, WebAssembly, data structures and algorithms, fundamental computer science stuff.**
 
 - 📫 How to reach me **danielogunwole0@gmail.com**
 
