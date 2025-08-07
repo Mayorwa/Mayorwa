@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Mayowa Ogunwole</h1>
+<h1 align="center">Hi 👋, I'm Mayowa</h1>
 <h3 align="center">A computer scientist and software engineer.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayorwa&column=10&theme=gruvbox&no-frame=true" alt="mayowaogunwole" /></a> </p>
