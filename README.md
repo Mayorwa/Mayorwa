@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **danielogunwole0@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tLeKYrmlJ4AesH6jIxvn3Wa5N7ytBtxu/view](https://drive.google.com/file/d/1tLeKYrmlJ4AesH6jIxvn3Wa5N7ytBtxu/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/13eTAx2c3FhMralIYVxFX8R6-bnbIetc0/view](https://drive.google.com/file/d/13eTAx2c3FhMralIYVxFX8R6-bnbIetc0/view)
 
 
 <h3 align="left">Connect with me:</h3>
